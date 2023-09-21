@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoMaster</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="login">Login</string>
+    <string name="getting_started">Getting Started</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="test">test</string>
+</resources>
